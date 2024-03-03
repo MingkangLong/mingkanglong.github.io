@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Mingkang Long"
-  pronouns         : "Dr"# example: "she/her"  
+  pronouns         : # example: "she/her"  
   bio              : "Research Fellow"
   location         : "Singapor"
   employer         : 
