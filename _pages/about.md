@@ -8,6 +8,17 @@ redirect_from:
 ---
 I am currently a research fellow with Nanyang Technological University. 
 
+<ul>
+<li><p>Research Fellow, (2024-Present), School of Electrical and Electronic Engineering,
+<a href="https://www.ntu.edu.sg/">Nanyang Technological University</a>, Singapor</p>
+</li>
+<li><p>Ph.D., (2018-2023),  School of Artificial Intelligence and Automation, 
+<a href="https://www.hust.edu.cn/">Huazhong University of Science and Technology,</a>, China  (Supervisor   <a href="https://aia.hust.edu.cn/info/1211/4824.htm">Prof. Housheng Su</a>)</p>
+</li>
+<li><p>B.Eng., (2014-2018), School of Automation,
+<a href="http://www.hust.edu.cn/">Huazhong University of Science and Technology</a>, China.</p>
+</li>
+</ul>
 
 Research Interests
 ======
