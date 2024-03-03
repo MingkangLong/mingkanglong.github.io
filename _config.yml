@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Mingkang Long"
-  pronouns         : # example: "she/her"  
+  pronouns         : "Dr"# example: "she/her"  
   bio              : "Research Fellow"
   location         : "Singapor"
-  employer         : "NTU"
+  employer         : 
   uri              : # URL
   email            : "mingkang.long@neu.edu.sg" 
 
