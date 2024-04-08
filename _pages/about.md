@@ -28,8 +28,28 @@ My research interests mainly focus on formal methods, coordination control with 
 
 Academic Services
 ======
-Review Service
-IEEE Transactions on Automatic Control (IEEE TAC)
-IEEE Transactions on Control of Network Systems (IEEE TCNS)
-IEEE Transactions on Systems, Man and Cybernetics: Systems (IEEE TSMC)
-IEEE International Conference on Automation Science and Engineering (IEEE CASE)
+<h3>Review Service </h3>
+<ul>
+<li><p>IEEE Transactions on Automatic Control (IEEE TAC)</p>
+<li><p>IEEE Transactions on Control of Network Systems (IEEE TCNS)</p>
+<li><p>IEEE International Conference on Automation Science and Engineering (IEEE CASE)</p>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
