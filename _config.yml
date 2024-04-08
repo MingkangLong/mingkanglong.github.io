@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Mingkang Long's Homepage"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Mingkang Long"
 description              : &description "Keep Moving"
