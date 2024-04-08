@@ -23,6 +23,13 @@ I am currently a research fellow with Nanyang Technological University.
 
 Research Interests
 ======
-My research interests mainly focus on coordination control with applications to autonomous robotic systems.
+My research interests mainly focus on formal methods, coordination control with applications to autonomous robotic systems.
 
 
+Academic Services
+======
+Review Service
+IEEE Transactions on Automatic Control (IEEE TAC)
+IEEE Transactions on Control of Network Systems (IEEE TCNS)
+IEEE Transactions on Systems, Man and Cybernetics: Systems (IEEE TSMC)
+IEEE International Conference on Automation Science and Engineering (IEEE CASE)
