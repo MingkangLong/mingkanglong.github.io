@@ -23,7 +23,7 @@ I am currently a research fellow with Nanyang Technological University.
 
 Research Interests
 ======
-My research interests mainly focus on formal methods, control synthesis, and coordination control with applications to autonomous robotic systems.
+My research interests mainly focus on formal methods, control synthesis, and coordination control with applications to multi-agent systems.
 
 
 Academic Services
