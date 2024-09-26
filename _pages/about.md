@@ -14,7 +14,7 @@ I am currently a research fellow with Nanyang Technological University.
 <a href="https://www.ntu.edu.sg/">Nanyang Technological University</a>, Singapore. (Supervisor: <a href="https://personal.ntu.edu.sg/rsu/Home.htm">Prof. Rong Su</a>)</p>
 </li>
 <li><p>Ph.D., (2018-2023),  School of Artificial Intelligence and Automation, 
-<a href="https://www.hust.edu.cn/">Huazhong University of Science and Technology</a>, China. (Supervisor: <a href="https://aia.hust.edu.cn/info/1211/4824.htm">Prof. Housheng Su</a>)</p>
+<a href="https://www.hust.edu.cn/">Huazhong University of Science and Technology</a>, China. (Supervisor: <a href="http://faculty.hust.edu.cn/suhousheng/zh_CN/index.htm">Prof. Housheng Su</a>)</p>
 </li>
 <li><p>B.Eng., (2014-2018), School of Automation,
 <a href="http://www.hust.edu.cn/">Huazhong University of Science and Technology</a>, China.</p>
