@@ -30,11 +30,13 @@ Academic Services
 ======
 <h3>Review Service </h3>
 <ul>
-<li><p>IEEE Transactions on Automatic Control (IEEE TAC)</p></li>
+<li><p>IEEE Transactions on Automatic Control</p></li>
 <li><p>Automatica</p></li>
-<li><p>IEEE Transactions on Cybernetics (IEEE TCYB)</p></li>
-<li><p>IEEE Transactions on Control of Network Systems (IEEE TCNS)</p></li>
-<li><p>IEEE International Conference on Automation Science and Engineering (IEEE CASE)</p></li>
+<li><p>IEEE Transactions on Cybernetics</p></li>
+<li><p>IEEE Transactions on Systems, Man and Cybernetics: Systems</p></li>
+<li><p>IEEE Transactions on Control of Network Systems</p></li>
+<li><p>IEEE Transactions on Automation Science and Engineering</p></li>
+<li><p>IEEE International Conference on Automation Science and Engineering</p></li>
 </ul>
 
 
