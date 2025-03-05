@@ -36,6 +36,9 @@ Academic Services
 <li><p>IEEE Transactions on Systems, Man and Cybernetics: Systems</p></li>
 <li><p>IEEE Transactions on Control of Network Systems</p></li>
 <li><p>IEEE Transactions on Automation Science and Engineering</p></li>
+<li><p>Chaos</p></li>
+<li><p>Journal of Systems and Control Engineering</p></li>
+<li><p>IET Control Theory & Applications</p></li>
 <li><p>IEEE International Conference on Automation Science and Engineering</p></li>
 </ul>
 
